@@ -1,0 +1,81 @@
+constituency,porcentage,response
+Carlow-Kilkenny,63.5,Yes
+Cavan-Monaghan,55.46,Yes
+Clare,64.28,Yes
+Cork East,64.12,Yes
+Cork North-Central,64.02,Yes
+Cork North-West,60.1,Yes
+Cork South-Central,68.84,Yes
+Cork South-West,64.51,Yes
+Donegal,48.13,Yes
+Dublin Bay North,74.69,Yes
+Dublin Bay South,78.49,Yes
+Dublin Central,76.51,Yes
+Dublin Fingal,76.96,Yes
+Dublin Mid-West,73.27,Yes
+Dublin North-West,73.08,Yes
+Dublin Rathdown,76.1,Yes
+Dublin South-Central,74.79,Yes
+Dublin South-West,74.91,Yes
+Dublin West,74.02,Yes
+Dun Laoghaire,77.06,Yes
+Galway East,60.19,Yes
+Galway West,65.95,Yes
+Kerry,58.27,Yes
+Kildare North,73.56,Yes
+Kildare South,70.66,Yes
+Laois,61.35,Yes
+Limerick City,66.87,Yes
+Limerick County,58.08,Yes
+Longford-Westmeath,58.27,Yes
+Louth,66.55,Yes
+Mayo,57.07,Yes
+Meath East,69.21,Yes
+Meath West,63.95,Yes
+Offaly,58.05,Yes
+Roscommon-Galway,57.21,Yes
+Sligo-Leitrim,59.38,Yes
+Tipperary,59.15,Yes
+Waterford,69.43,Yes
+Wexford,68.4,Yes
+Wicklow,74.26,Yes
+Carlow-Kilkenny,36.5,No
+Cavan-Monaghan,44.54,No
+Clare,35.72,No
+Cork East,35.88,No
+Cork North-Central,35.98,No
+Cork North-West,39.9,No
+Cork South-Central,31.16,No
+Cork South-West,35.49,No
+Donegal,51.87,No
+Dublin Bay North,25.31,No
+Dublin Bay South,21.51,No
+Dublin Central,23.49,No
+Dublin Fingal,23.04,No
+Dublin Mid-West,26.73,No
+Dublin North-West,26.92,No
+Dublin Rathdown,23.9,No
+Dublin South-Central,25.21,No
+Dublin South-West,25.09,No
+Dublin West,25.98,No
+Dun Laoghaire,22.94,No
+Galway East,39.81,No
+Galway West,34.05,No
+Kerry,41.73,No
+Kildare North,26.44,No
+Kildare South,29.34,No
+Laois,38.65,No
+Limerick City,33.13,No
+Limerick County,41.92,No
+Longford-Westmeath,41.73,No
+Louth,33.45,No
+Mayo,42.93,No
+Meath East,30.79,No
+Meath West,36.05,No
+Offaly,41.95,No
+Roscommon-Galway,42.79,No
+Sligo-Leitrim,40.62,No
+Tipperary,40.85,No
+Waterford,30.57,No
+Wexford,31.6,No
+Wicklow,25.74,No
